@@ -23,7 +23,7 @@ I am currently degree candidate in electronic engineering at the Universidad Nac
 * **Universidad Nacional de Colombia** - *Electronic Engineering*
 <div align="center">
 IoT | Embedded Systems | Arduino | Raspberry | Docker
-
+<br>
 <img src="https://pbs.twimg.com/profile_images/1394378193134669827/hzov_5JS_400x400.jpg" width="15%">
 </div>
 
@@ -49,7 +49,7 @@ IoT | Embedded Systems | Arduino | Raspberry | Docker
 ## **Proffesional Experience**
 * *Banco Popular - Colombia*
   Administrative Supervisor <br>
-  ##### Bus | Datapower | API | DevOps | Developer <br>
+##### Bus | Datapower | API | DevOps | Developer <br>
 
 <br>
 
@@ -72,3 +72,18 @@ Web Page: [https://eavillamila.wixsite.com/website-81](https://eavillamila.wixsi
 | **Sustainable Development Goals** | <img src="https://www.cepal.org/sites/default/files/styles/content_big/public/static/images/e_2018_ods_poster_with_un_emblem_es.png?itok=uuajV7m_" width="60%">          |   **Internet of Things**  | <img src="https://www.zdnet.com/a/img/resize/fe3cd4335dd088e466578422640b646f641609ec/2020/09/28/6b225a1a-381a-4ceb-b13c-d2d314d41bd7/what-is-the-iot-everything-you-need-to-k-5f6cc13d5f60de4b41b7f3d4-1-sep-28-2020-16-19-38-poster.jpg?auto=webp&fit=crop&height=675&width=1200" width="60%"> |
 |    **Artificial Intelligence**    |                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sophia_%28robot%29.jpg/2560px-Sophia_%28robot%29.jpg" width="60%">                  |  **Academy and Research** |                                                                                    <img src="https://image.cnbcfm.com/api/v1/image/103415838-BostonDynamicsRobot2.jpg?v=1529470771&w=1600&h=900" width="60%">                                                                                    |
 |   **Alternative Energy Sources**  | <img src="https://www.bbva.com/wp-content/uploads/2021/03/energi%CC%81a_renovable_apertura-paneles-sostenible-panel-solar-eolica-molinos-medioambiente.jpg" width="60%"> | **Culture and Languages** |                                                                                    <img src="https://wpvip.edutopia.org/wp-content/uploads/2022/10/a4227ir1171-clone-crop.jpg?w=2880&quality=85" width="60%">                                                                                    |
+
+## **Skills**
+
+### **Soft**
+* *Teamwork:* ability to assume any role, including that of leader, emphasizing organization and planning.
+* *Adaptability and resilience:* always open to change and with a vision of opportunities and not difficulties.
+* *Innovation and creativity:* willing to propose new ideas and build on the proposals of others.
+* *Communication:* skillful in presenting information in the role of speaker.
+
+### **Hard**
+* *Multidisciplinary work:* willingness to work together and in coordination with other professionals.
+* *Project management:* experience in the construction and development of projects at an academic level.
+* *Simulation and design:* skills in the use of tools for design, prototyping and implementation of systems.
+* *Office suite:* advanced knowledge in the use of the basic tools of Office 365 and Google Suite.
+* *Identification of opportunities:* able to understand contexts, create connections and evaluate solutions.
