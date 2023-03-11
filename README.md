@@ -8,9 +8,12 @@
 
 <img src="photos/photo2.png" width="50%">
 
-## **Professional Profile**
-I am currently degree candidate in electronic engineering at the Universidad Nacional de Colombia, and I really want to continue my professional training. I had the opportunity to work as an assistant student in different roles for 1 year with outstanding results. I am a professional with commitment, passion, initiative, and resilience to face changes, always with an ethical and responsible character before the world and society. I have acquired skills related to teamwork, creating innovative proposals, identifying opportunities and project planning, with whom I seek to address problems present in the world and build technological solutions that are efficient, profitable, and sustainable. My interests especially cover the fields related to the Internet of Things, embedded systems, telecommunications, and Industry 4.0 technologies.
+</div>
 
+## **<div align="center">Professional Profile</div>**
+<div align="center">
+I am currently degree candidate in electronic engineering at the Universidad Nacional de Colombia, and I really want to continue my professional training. I had the opportunity to work as an assistant student in different roles for 1 year with outstanding results. I am a professional with commitment, passion, initiative, and resilience to face changes, always with an ethical and responsible character before the world and society. I have acquired skills related to teamwork, creating innovative proposals, identifying opportunities and project planning, with whom I seek to address problems present in the world and build technological solutions that are efficient, profitable, and sustainable. My interests especially cover the fields related to the Internet of Things, embedded systems, telecommunications, and Industry 4.0 technologies.
+</div>
 <br>
 
 ***************
@@ -64,5 +67,3 @@ Web Page: [https://eavillamila.wixsite.com/website-81](https://eavillamila.wixsi
 |**Alternative Energy Sources**|<img src="https://www.bbva.com/wp-content/uploads/2021/03/energi%CC%81a_renovable_apertura-paneles-sostenible-panel-solar-eolica-molinos-medioambiente.jpg" width="60%">|
 |**Internet of Things**|<img src="https://www.zdnet.com/a/img/resize/fe3cd4335dd088e466578422640b646f641609ec/2020/09/28/6b225a1a-381a-4ceb-b13c-d2d314d41bd7/what-is-the-iot-everything-you-need-to-k-5f6cc13d5f60de4b41b7f3d4-1-sep-28-2020-16-19-38-poster.jpg?auto=webp&fit=crop&height=675&width=1200" width="60%">|
 |**Academy and Research**|<img src="https://image.cnbcfm.com/api/v1/image/103415838-BostonDynamicsRobot2.jpg?v=1529470771&w=1600&h=900" width="60%">|
-
-</div>
