@@ -1,41 +1,30 @@
-#/bin/bash
+#!/bin/bash
+
+echo -e 'A continuación, se muestra el estado del repositorio local: \n'
+git status
+echo -e '\nPresiona ENTER para continuar...'
+read -p ''
+
 clear
+echo -e 'Se agregan los archivos al entorno de ttrabajo...\n'
+git add .
+echo -e '\nPresiona ENTER para continuar...'
+read -p ''
 
-# set variables
-#username=$1
-#token=$2
-#repo=$3
-comment=$1
-rama=$2
+clear
+echo -e 'Se realiza el commit del repositorio...\n'
+read -p 'Ingresa el comentario (Sugerencia: En la forma "#Comment")' comment
+git commit -m "$comment"
+echo -e '\nPresiona ENTER para continuar...'
+read -p ''
 
+clear
+echo -e 'Se realiza el push hacia el repositorio remoto...\n'
+read -p 'Ingresa el nombre de la rama: ' rama
+git push origin "$rama"
+echo -e '\nPresiona ENTER para continuar...'
+read -p ''
 
-git config --global user.email "eavillamila@unal.edu.co"
-git config --global user.name "Edward"
-git config --global core.autocrlf false
-
-
-# Ejecucion
-
-   #    cd /home/giovanemere/Aprovisionamiento_Linux
-   #   git clone https://$username:$token@github.com/$repo
-
-   #if [[ $clone =~ ^[Yy]$ ]]
-   #then
-   #   git clone https://$username:$token@github.com/$repo
-   #fi
-    
-    echo "comment [$comment] | rama [$rama]"
-    echo "inicia carga en git"
-       
-    git status
-    read -p "Press [Enter] key to continue..." readEnterKey
-
-    git add .
-    read -p "Press [Enter] key to continue..." readEnterKey
-    
-    git commit -m "$comment"
-    read -p "Press [Enter] key to continue..." readEnterKey
-
-    git push origin $rama
-    echo -e "\n----- Fin del Script -----------------------------------------------------------"
-    read -p "Press [Enter] key to continue..." readEnterKey
+clear
+unset comment
+unset rama
