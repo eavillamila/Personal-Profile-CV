@@ -1,5 +1,7 @@
 ### **La documentcaión de este taller se encuentra en el archivo [TALLERGIT.md](https://github.com/eavillamila/Personal-Profile-Edward-Villamil/blob/gh-pages/TALLERGIT.md)**
 
+### **La página de esta perfil profesional es: [https://eavillamila.github.io/Personal-Profile-Edward-Villamil/](https://eavillamila.github.io/Personal-Profile-Edward-Villamil/)**
+
 # ***PROFESSIONAL PROFILE***
 
 # ***Edward Alonso Villamil Avellaneda***
@@ -30,7 +32,7 @@ IoT | Embedded Systems | Arduino | Raspberry | Docker
 * **Servicio Nacional de Aprendizaje SENA** - *Technician in Accounting of Commercial and Financial Operations*
 
 <div align="center">
-<img src="https://i1.sndcdn.com/avatars-HOfZooNtNCaTXubE-JPWhzA-t500x500.jpg" width="20%">
+<img src="https://i1.sndcdn.com/avatars-HOfZooNtNCaTXubE-JPWhzA-t500x500.jpg" width="15%">
 </div>
 <br>
 
@@ -47,9 +49,9 @@ IoT | Embedded Systems | Arduino | Raspberry | Docker
 ***************
 
 ## **Proffesional Experience**
-* *Banco Popular - Colombia*
+* *Banco Popular - Colombia* <br>
   Administrative Supervisor <br>
-##### Bus | Datapower | API | DevOps | Developer <br>
+  ##### Bus | Datapower | API | DevOps | Developer <br>
 
 <br>
 
