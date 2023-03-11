@@ -66,10 +66,10 @@ Web Page: [https://eavillamila.wixsite.com/website-81](https://eavillamila.wixsi
 *One of the ten best projects of the event. Design of two ergonomic manual tools for the extraction and harvesting of potatoes, which seek to solve the physical health problems of the peasant population of the municipality of Motavita, Boyacá.*
 
 ## **Interests**
-|||
-|-------|--------|
-|**Sustainable Development Goals**|<img src="https://www.cepal.org/sites/default/files/styles/content_big/public/static/images/e_2018_ods_poster_with_un_emblem_es.png?itok=uuajV7m_" width="60%">
-|**Artificial Intelligence**|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sophia_%28robot%29.jpg/2560px-Sophia_%28robot%29.jpg" width="60%">
-|**Alternative Energy Sources**|<img src="https://www.bbva.com/wp-content/uploads/2021/03/energi%CC%81a_renovable_apertura-paneles-sostenible-panel-solar-eolica-molinos-medioambiente.jpg" width="60%">|
-|**Internet of Things**|<img src="https://www.zdnet.com/a/img/resize/fe3cd4335dd088e466578422640b646f641609ec/2020/09/28/6b225a1a-381a-4ceb-b13c-d2d314d41bd7/what-is-the-iot-everything-you-need-to-k-5f6cc13d5f60de4b41b7f3d4-1-sep-28-2020-16-19-38-poster.jpg?auto=webp&fit=crop&height=675&width=1200" width="60%">|
-|**Academy and Research**|<img src="https://image.cnbcfm.com/api/v1/image/103415838-BostonDynamicsRobot2.jpg?v=1529470771&w=1600&h=900" width="60%">|
+
+| **Sustainable Development Goals** | <img src="https://www.cepal.org/sites/default/files/styles/content_big/public/static/images/e_2018_ods_poster_with_un_emblem_es.png?itok=uuajV7m_" width="60%">                                                                                                                                  |
+|-----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    **Artificial Intelligence**    |                                                                              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sophia_%28robot%29.jpg/2560px-Sophia_%28robot%29.jpg" width="60%">                                                                              |
+|   **Alternative Energy Sources**  |                                                             <img src="https://www.bbva.com/wp-content/uploads/2021/03/energi%CC%81a_renovable_apertura-paneles-sostenible-panel-solar-eolica-molinos-medioambiente.jpg" width="60%">                                                             |
+|       **Internet of Things**      | <img src="https://www.zdnet.com/a/img/resize/fe3cd4335dd088e466578422640b646f641609ec/2020/09/28/6b225a1a-381a-4ceb-b13c-d2d314d41bd7/what-is-the-iot-everything-you-need-to-k-5f6cc13d5f60de4b41b7f3d4-1-sep-28-2020-16-19-38-poster.jpg?auto=webp&fit=crop&height=675&width=1200" width="60%"> |
+|      **Academy and Research**     |                                                                                    <img src="https://image.cnbcfm.com/api/v1/image/103415838-BostonDynamicsRobot2.jpg?v=1529470771&w=1600&h=900" width="60%">                                                                                    |
