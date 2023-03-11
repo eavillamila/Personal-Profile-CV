@@ -1,6 +1,11 @@
-# ***Edward Alonso Villamil Avellaneda***
+### **La documentcaión de este taller se encuentra en el archivo [TALLERGIT.md](https://github.com/eavillamila/Personal-Profile-Edward-Villamil/blob/gh-pages/TALLERGIT.md)**
 
 <div align="center">
+
+# ***PROFESSIONAL PROFILE***
+
+# ***Edward Alonso Villamil Avellaneda***
+
 <img src="photos/photo2.png" width="50%">
 
 ## **Professional Profile**
