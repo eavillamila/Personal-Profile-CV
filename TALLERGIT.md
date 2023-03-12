@@ -64,9 +64,11 @@ Cuando ingresas a la opción desdeada te aparece la documentación del template.
 
 Dentro de la documentación se dan las indicaciones para implementarlo. En general, lo que se debe hacer es crear un archivo llamado `_config.yaml` en la rama sobre la que se está trabajando (`gh-pages`). La estructura básica será:
 
+    ```yml
     remote_theme: pages-themes/nameTamplate
     plugins:
     - jekyll-remote-theme
+    ```
 
 En este archivo puedes agregar opciones adicionales, como el título del sitio, una descripción, activar o desactivar las opciones de descarga, tener analíticas de Google, entre otras cosas. Todo está en la documentación.
 
@@ -87,24 +89,30 @@ Para el desarrollo de este taller se emplearon cuatro lenguajes de programación
 
 Este parte del taller fue automatizada con los Shell Scripts de Git, los cuales se encuentran en la carpeta [gitScripts/](https://github.com/eavillamila/Personal-Profile-Edward-Villamil/tree/gh-pages/gitScripts). Aquí se realiza en primer lugar las configuraciones iniciales del repositorio local, donde clonamos, agregamos el user, el email, le indicamos que los archivos están en formato para Windows, y si es necesario quitamos la validación de los certificados SSL. Los comandos básicos empleados son:
 
+    ```bash
     git clone "urlRepositorio"
     git config --global user.name "nombreUsuario"
     git config --global user.email "correo GitHub"
     git config --global core.autocrlf false
     git config --global http.sslVerify false
+    ```
 
-Por otro lado, también podemos ver el estado del respositorio local y las ramas disponible, o cambiar de rama, con lo comandos:
+Por otro lado, también podemos ver el estado del respositorio local y las ramas disponible, o cambiar de rama, con los comandos:
 
+    ```bash
     git status
     git branch -r
     git checkout "nombreRama"
+    ```
  
 Para la actualización del repositorio remoto o cargue debemos usar los comandos:
 
+    ```bash
     git add .
     git commit -m "comentario"
     git push origin "nombreRama"
     git status
+    ```
 
 Para traer los cambios desde el repositorio remoto usamos:
 
