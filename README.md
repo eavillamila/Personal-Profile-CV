@@ -1,7 +1,7 @@
 
 ### **La documentcaión de este taller se encuentra en el archivo [TALLERGIT.md](https://github.com/eavillamila/Personal-Profile-Edward-Villamil/blob/gh-pages/TALLERGIT.md)**
 
-### **La página de esta perfil profesional es: [https://eavillamila.github.io/Personal-Profile-Edward-Villamil/](https://eavillamila.github.io/Personal-Profile-Edward-Villamil/)**
+### **La página de este perfil profesional es: [https://eavillamila.github.io/Personal-Profile-Edward-Villamil/](https://eavillamila.github.io/Personal-Profile-Edward-Villamil/)**
 
 # ***PROFESSIONAL PROFILE***
 
